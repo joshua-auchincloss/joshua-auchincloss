@@ -51,7 +51,7 @@
         href="https://www.elastic.co/">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
             height="40" /> </a><a target="_blank" rel="noreferrer" href="https://fastapi.tiangolo.com">
-        <img src="/fastapi-1.svg" alt="fastapi" width="40" height="40" /> </a><a target="_blank" rel="noreferrer"
+        <img src="/fastapi-1.svg" alt="F" width="40" height="40" style="font-color:white;"/> </a><a target="_blank" rel="noreferrer"
         href="https://flask.palletsprojects.com/">
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
             height="40" /> </a><a target="_blank" rel="noreferrer" href="https://kubernetes.io/">
@@ -98,7 +98,7 @@
             alt="bootstrap" width="40" height="40" /> </a><a target="_blank" rel="noreferrer" href="https://deno.land">
         <img src="https://deno.land/logo.svg?__frsh_c=1n1ab050b6dg" alt="deno" width="40" height="40" /> </a><a
         target="_blank" rel="noreferrer" href="https://preactjs.com">
-        <img src="/preact.svg" alt="preact" width="40" height="40" /> </a><a target="_blank" rel="noreferrer"
+        <img src="/preact.svg" alt="Pr" width="40" height="40" style="font-color:white;"/> </a><a target="_blank" rel="noreferrer"
         href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a><a target="_blank" rel="noreferrer" href="https://sass-lang.com/">
