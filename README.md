@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Josh</h1>
 <br>
-[![Node Build](https://github.com/joshua-auchincloss/joshua-auchincloss/actions/workflows/build-flow.yml/badge.svg)](https://github.com/joshua-auchincloss/joshua-auchincloss/actions/workflows/build-flow.yml)
+[![Build](https://github.com/joshua-auchincloss/joshua-auchincloss/actions/workflows/build-flow.yml/badge.svg)](https://github.com/joshua-auchincloss/joshua-auchincloss/actions/workflows/build-flow.yml)
 
 <h3 align="left">
     I'm a privately contracted individual with a passion for open source work
