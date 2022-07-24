@@ -1,18 +1,22 @@
 <h1 align="center">Welcome, I'm Josh</h1>
-<h3 align="center">
+<br>
+<h3 align="left">
     I'm a privately contracted individual with a passion for open source work
 </h3>
 
 - 💬 Ask me about **perpetual-kyc** & **aml informatics** 
 - 📫 How to reach me **joshua.auchincloss@proton.me**
 
+<br>
+<br>
 <h3 align="left">Connect with me:</h3> <p align="left">
     <a href="{linkedin}" target="_blank" rel="noreferrer">
         <img width="40" alt="LinkedIn"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/64px-LinkedIn_icon_circle.svg.png" />
     </a>
 </p>
-
+<br>
+<br>
 <h3 class="text-xl font-medium py-4">Programming Languages</h3>
 <div align="center">
     <a target="_blank" rel="noreferrer" href="https://www.gnu.org/software/bash/">
@@ -44,6 +48,7 @@
     </a>
 </div>
 <h3 class="text-xl font-medium py-4">General Frameworks</h3>
+<br>
 <div align="center">
     <a target="_blank" rel="noreferrer" href="https://www.docker.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -67,6 +72,7 @@
     </a>
 </div>
 <h3 class="text-xl font-medium py-4">Data Frameworks</h3>
+<br>
 <div align="center">
     <a target="_blank" rel="noreferrer" href="https://www.microsoft.com/en-us/sql-server">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
@@ -90,6 +96,7 @@
     </a>
 </div>
 <h3 class="text-xl font-medium py-4">Web Frameworks</h3>
+<br>
 <div align="center">
     <a target="_blank" rel="noreferrer" href="https://angular.io/">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
