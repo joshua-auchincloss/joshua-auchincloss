@@ -34,7 +34,7 @@ const ImgGrid = (props: { title: string; GridItem: LinkItem[] }) => {
   return (
     <>
       <h1 class="text-xl font-medium py-4">{props.title}</h1>
-      <div class="grid grid-flow-row grid-cols-5 md:grid-cols-10 flex-auto space-x-3 my-4 place-items-center">
+      <div class="grid grid-flow-row grid-cols-5 lg:grid-cols-10 flex-auto space-x-3 my-4 place-items-center">
         <For
           each={props.GridItem}
           fallback={<h1>Ooops :p</h1>}

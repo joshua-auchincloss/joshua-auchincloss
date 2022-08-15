@@ -63,13 +63,7 @@ const Footer = () => {
       </div>
 
       <div class="text-center p-2 bg-gray-200 text-sm">
-        <span>© 2022 Copyright: </span>
-        <a
-          class="text-gray-600 font-semibold "
-          href="https://tailwind-elements.com/"
-        >
-          Joshua Auchincloss
-        </a>
+        Joshua Auchincloss &middot 2022
       </div>
     </footer>
   );

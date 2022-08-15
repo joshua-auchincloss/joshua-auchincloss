@@ -1,9 +1,9 @@
 import ListBox from "../components/ListBox";
 const AboutMe = () => {
   return (
-    <div class="grid px-4 py-6 space-y-6 content-center grid-cols-3">
-      <div class="place-self-center md:col-span-2 col-span-3">
-        <h2 class="font-medium text-xl -my-2">Career</h2>
+    <div class="grid px-4 space-y-6 content-center grid-cols-3 align-top">
+      <div class="place-self-center md:col-span-2 col-span-3 ">
+        <h2 class="font-medium text-xl">Career</h2>
         <div class="grid grid-flow-col grid-cols-2 place-items-center p-3 justify-center space-y-3 space-x-2 col-span-1">
           <div class="grid col-span-1 row-span-3 place-items-center justify-self-end">
             <span class="text-slate-500 font-thin py-2 row-span-1 text-center">
@@ -26,19 +26,15 @@ const AboutMe = () => {
           </div>
         </div>
         <p class="my-5 text-left text-slate-700 px-3">
-          <span class="text-black text-ellipsis ">
-            Utilization of _________{" "}
-          </span>{" "}
-          &middot Python (Programming Language) &middot Machine Learning &middot
-          Natural Language Processing (NLP) &middot Optical Character
-          Recognition (OCR) &middot C &middot C++ &middot Cython &middot
-          JavaScript &middot TypeScript &middot Angular &middot Bootstrap
-          &middot React &middot Tailwind &middot Haskell &middot Ruby &middot
-          Swift (Programming Language) &middot Artificial Intelligence (AI)
-          &middot Distributed Systems &middot REST APIs{" "}
+          Python (Programming Language) &middot Machine Learning &middot Natural
+          Language Processing (NLP) &middot Optical Character Recognition (OCR)
+          &middot C &middot C++ &middot Cython &middot JavaScript &middot
+          TypeScript &middot Angular &middot Bootstrap &middot React &middot
+          Tailwind &middot Haskell &middot Ruby &middot Swift (Programming
+          Language) &middot Artificial Intelligence (AI) &middot Distributed
+          Systems &middot REST APIs{" "}
         </p>
         <p class="my-5 text-left text-slate-700 sm:pr-4 px-3">
-          <span class="text-black text-ellipsis">For _________ </span> &middot
           Perpetual KYC Solutions &middot Data Analysis &middot Data Modeling
           &middot Data Management &middot Data Migration &middot Data
           Visualization &middot Anti-Money Laundering &middot CDD Risk
