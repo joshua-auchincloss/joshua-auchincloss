@@ -79,6 +79,13 @@ const ImgSrcs: LinkItem[] = [
     type: "framework",
   },
   {
+    alt: "golang",
+    tooltip: "Go",
+    src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg",
+    href: "https://golang.org",
+    type: "language",
+  },
+  {
     alt: "haskell",
     tooltip: "Haskell",
     src: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg",
@@ -226,33 +233,33 @@ const ImgSrcs: LinkItem[] = [
     type: "webframework",
   },
   {
-    alt:"openshift",
-    tooltip:"OpenShift",
-    src:"https://avatars.githubusercontent.com/u/792337?s=200&v=4",
-    href:"https://openshift.com",
-    type:"framework"
+    alt: "openshift",
+    tooltip: "OpenShift",
+    src: "https://avatars.githubusercontent.com/u/792337?s=200&v=4",
+    href: "https://openshift.com",
+    type: "framework",
   },
   {
-    alt:"fastapi",
-    tooltip:"FastApi",
+    alt: "fastapi",
+    tooltip: "FastApi",
     src: "/fastapi-1.svg",
-    href:"https://fastapi.tiangolo.com",
-    type:"framework",
+    href: "https://fastapi.tiangolo.com",
+    type: "framework",
   },
   {
-    alt:"preact",
-    tooltip:"Preact",
+    alt: "preact",
+    tooltip: "Preact",
     src: "/preact.svg",
-    href:"https://preactjs.com",
-    type:"webframework",
+    href: "https://preactjs.com",
+    type: "webframework",
   },
   {
     alt: "neo4j",
-    tooltip:"Neo4j",
-    src:"https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-6.svg",
-    href:"https://neo4j.com",
-    type:"dataframework"
-  }
+    tooltip: "Neo4j",
+    src: "https://neo4j.com/wp-content/themes/neo4jweb/v2-templates/brand/assets/logo-section-6.svg",
+    href: "https://neo4j.com",
+    type: "dataframework",
+  },
 ];
 
 export default ImgSrcs;
