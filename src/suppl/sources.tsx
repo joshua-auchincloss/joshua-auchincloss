@@ -69,7 +69,7 @@ const ImgSrcs: LinkItem[] = [
     tooltip: "ElasticSearch",
     src: "https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg",
     href: "https://www.elastic.co/",
-    type: "framework",
+    type: "dataframework",
   },
   {
     alt: "flask",
@@ -149,11 +149,18 @@ const ImgSrcs: LinkItem[] = [
     type: "webframework",
   },
   {
+    alt: "numpy",
+    tooltip:"numpy",
+    src: "https://numpy.org/images/logo.svg",
+    href:"https://numpy.org",
+    type: "dataframework",
+  },
+  {
     alt: "redis",
     tooltip: "Redis",
     src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg",
     href: "https://redis.io/",
-    type: "framework",
+    type: "dataframework",
   },
   {
     alt: "ruby",
@@ -188,7 +195,7 @@ const ImgSrcs: LinkItem[] = [
     tooltip: "Selenium",
     src: "https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg",
     href: "https://www.selenium.dev/",
-    type: "framework",
+    type: "dataframework",
   },
   {
     alt: "sqlite",
