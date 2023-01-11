@@ -1,2 +1,6 @@
 node_modules
 geckodriver.log
+*DS_Store*
+*.ipynb
+package-lock.json
+edit1.html
