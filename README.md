@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">I'm a privately contracted individual with a passion for open source work</h3>
+<h3 align="center">I love open source</h3>
 
-- 🔭 I’m currently working on [spvn](https://github.com/spvn-rs/spvn)
+- 🔭 I’m currently working on [flymodel](https://github.com/joshua-auchincloss/flymodel)
 
 - 👨‍💻 All of my projects are available at [https://github.com/joshua-auchincloss](https://github.com/joshua-auchincloss)
 
